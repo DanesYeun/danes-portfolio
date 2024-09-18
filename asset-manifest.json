@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.cffa2cea.css",
+    "main.js": "/my-app/static/js/main.ded5c38a.js",
+    "static/js/453.455b0dea.chunk.js": "/my-app/static/js/453.455b0dea.chunk.js",
+    "static/media/Yaun_Resume.pdf": "/my-app/static/media/Yaun_Resume.147ec685ef9abb24ca03.pdf",
+    "static/media/picture.jpg": "/my-app/static/media/picture.d13191717ba5fb6b08ca.jpg",
+    "index.html": "/my-app/index.html",
+    "main.cffa2cea.css.map": "/my-app/static/css/main.cffa2cea.css.map",
+    "main.ded5c38a.js.map": "/my-app/static/js/main.ded5c38a.js.map",
+    "453.455b0dea.chunk.js.map": "/my-app/static/js/453.455b0dea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cffa2cea.css",
+    "static/js/main.ded5c38a.js"
+  ]
+}
